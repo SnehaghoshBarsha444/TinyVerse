@@ -91,12 +91,21 @@ Contributions are welcome! If you want to report issues or suggest features, ple
 - Open an issue on [GitHub](https://github.com/SnehaghoshBarsha444/tinyverse/issues).
 - Submit a pull request with improvements.
 
+## 📬 **Contact Information**  
+
+For inquiries or collaboration opportunities, connect via: 
+- **Email**: [Contact Me](mailto:miss.webdesigner0013@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/SnehaghoshBarsha444)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/)
+- **Twitter**: [@IsopodTechnical](https://x.com/IsopodTechnical)  
+- **Medium**: [Medium Profile](https://medium.com/@Technical_Isopod_075)
+
 ---
 
-## License
+### **License**  
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
-Happy coding with SnehaghoshBarsha444(Technical_Isopod_075)!
+**Happy coding with [SnehaghoshBarsha444(Technical_Isopod_075)](https://snehaghosh-technical-isopod-portfolio.vercel.app/)**
