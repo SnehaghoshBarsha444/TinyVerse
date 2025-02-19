@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TinyVerse - URL Shortener</title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:image" content="favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="favicon_io/site.webmanifest">
+ <meta property="og:image" content="/og-image.png" />
+</head>
+<body>
+  <div class="wrapper">
+    <div class="container">
+      <header>
+        <h1>TinyVerse</h1>
+        <p class="subtitle">Shrinking the digital universe</p>
+      </header>
+      
+      <main>
+        <div class="input-group">
+          <label for="urlInput">Enter URL:</label>
+          <input type="url" id="urlInput" placeholder="https://example.com">
+        </div>
+        
+        <button id="shortenBtn" class="primary-btn">Shorten</button>
+        
+        <div class="output-group">
+          <label for="shortUrl">Shortened URL:</label>
+          <input type="text" id="shortUrl" readonly>
+        </div>
+        
+        <div class="button-group">
+          <button id="copyBtn" class="secondary-btn">Copy</button>
+          <button id="openBtn" class="secondary-btn">Open</button>
+        </div>
+      </main>
+      
+      <footer>
+        <p class="copyright">
+          &copy; 2024 (Miss WebDesigner) <b>Sneha Ghosh</b> (@Technical_Isopod_075)
+        </p>
+      </footer>
+    </div>
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>
