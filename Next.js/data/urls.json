@@ -1,22 +1,3 @@
 {
-  "urls": {
-    "aHR0cHM6Ly90aW55dXJsLmNvbS8yY2czb2htdQ==": {
-      "originalUrl": "https://github.com/SnehaghoshBarsha444/TinyVerse",
-      "shortUrl": "https://tinyurl.com/2cg3ohmu",
-      "clicks": 0,
-      "createdAt": "2025-03-02T11:28:29.455Z"
-    },
-    "aHR0cHM6Ly90aW55dXJsLmNvbS8yM2oyenl1Mw==": {
-      "originalUrl": "https://github.com/SnehaghoshBarsha444",
-      "shortUrl": "https://tinyurl.com/23j2zyu3",
-      "clicks": 0,
-      "createdAt": "2025-03-02T12:19:30.184Z"
-    },
-    "aHR0cHM6Ly90aW55dXJsLmNvbS8yNWIzcDlnbg==": {
-      "originalUrl": "https://rbac-ui-sigma.vercel.app/",
-      "shortUrl": "https://tinyurl.com/25b3p9gn",
-      "clicks": 0,
-      "createdAt": "2025-03-02T12:23:37.535Z"
-    }
-  }
+  "urls": { }
 }
